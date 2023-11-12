@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "chipsetter-badge-sao-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/chipsetter-badge-sao-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "samd_hcc_mod")(type "Legacy")(uri "${KIPRJMOD}/samd_hcc_mod.lib")(options "")(descr ""))
+  (lib (name "TP4057")(type "Legacy")(uri "${KIPRJMOD}/TP4057.lib")(options "")(descr ""))
+)
